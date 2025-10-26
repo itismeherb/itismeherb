@@ -1,12 +1,9 @@
 # Mikołaj "herb" Laskowski
 
-Works primarily with **C, C++, and x86-64 Assembly**. Focused on **systems programming, low-level development, and CLI tools**.  
+Self-taught game developer using Lua, with experience in web dev and C.<br>
+I enjoy building small engines, tools, and retro-style games.
 
-## 🔭 Current Projects
-- [**seashell**](https://github.com/Mikolaj-o7/seashell) — lightweight shell written in C  
-- [**TorchOS**](https://github.com/Mikolaj-o7/TorchOS) — hobby OS with custom bootloader "Spark" and kernel "Torch"  
-- Various libraries: [**libasciipix**](https://github.com/Mikolaj-o7/libasciipix) (pixel-art to ASCII), [**C vector implementation**](https://github.com/Mikolaj-o7/cvector)  
+**Skills:** Lua · C · HTML/CSS · JavaScript<br>
+**Tools:** Love2D · VS Code · Git · Raylib
 
-## 📫 Contact
-- Email: [mikolajlaskowski7@gmail.com](mailto:mikolajlaskowski7@gmail.com)  
-- Discord: `@mikolaj_o7`
+📫 [mikolajlaskowski7@gmail.com](mailto:mikolajlaskowski7@gmail.com)
