@@ -1,6 +1,6 @@
 # Mikołaj "herb" Laskowski
 
-🚧 Working on [Scribe](https://github.com/itismeherb/Scribe)
+🚧 Working on [Scribe](https://github.com/itismeherb/Scribe)<br>
 🌐 Live: [Dzika Spiżarnia](https://dzika-spizarnia.vercel.app/)
 
 🔗 [LinkedIn](https://linkedin.com/in/mikołaj-laskowski-923609389)<br>
